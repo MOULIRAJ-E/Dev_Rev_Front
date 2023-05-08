@@ -16,7 +16,7 @@ function LibraryPage() {
   const [books, setDataList] = useState([]);
   useEffect(() => {
     axios
-      .get("http://localhost:8000/api/create/get")
+      .get("https://ill-earmuffs-fox.cyclic.app//api/create/get")
       .then((response) => setDataList(response.data))
       .catch((error) => console.log(error));
   }, []);
