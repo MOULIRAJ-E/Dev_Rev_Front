@@ -15,8 +15,7 @@ const Contact = () => {
                     <br/>
                     <h4 className='b_h'>In India</h4>
                     <br/>
-                        <p><i className='fa-solid fa-location-dot icon'></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, 
-                    dignissim sit amet, adipiscing nec</p>
+                        <p><i className='fa-solid fa-location-dot icon'></i>Kongu Engineering college,Perundurai,Erode-638060.</p>
                         <p><i className='fa fa-phone icon '></i>info@mikaelsons.org</p>
                         <p><i className='fa fa-envelope icon'></i>022-23674933</p>
                     </div>
